@@ -3,14 +3,14 @@ A simple and efficient JavaScript project to check if a given string is a palind
 
 
 ## Features
-* Checks if a string reads the same forwards and backwards
-* Case-insensitive and ignores non-alphanumeric characters
+* Checks if a string reads the same forwards and backwards.
+* Case-insensitive and ignores non-alphanumeric characters.
 
 
 ## Installation
 1. Clone the repository: git clone https://github.com/Makundi/Palindrome-Checker.git
-2. Navigate to the project directory: cd palindrome-checker
-3. Open index.html in a browser or run
+2. Navigate to the project directory: cd palindrome-checker.
+3. Open index.html in a browser or run.
 
 
 ## Preview
