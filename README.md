@@ -8,6 +8,10 @@ A simple and efficient JavaScript project to check if a given string is a palind
 
 
 ## Installation
-1. Clone the repository: git clone https://github.com/Makundi/palindrome-checker.git
+1. Clone the repository: git clone https://github.com/Makundi/Palindrome-Checker.git
 2. Navigate to the project directory: cd palindrome-checker
 3. Open index.html in a browser or run
+
+
+## Preview
+<img src="preview.png">
