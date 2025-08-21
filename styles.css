@@ -1,0 +1,30 @@
+body {
+  width: 60%;
+  margin: 0 auto;
+  font-family: Arial, san-serif; 
+}
+
+.main-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.palindrome-info {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
+
+.palindrome-info p {
+  margin: 0;
+  font-size: 0.9em;
+  color: #555;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+}
